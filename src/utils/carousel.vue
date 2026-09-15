@@ -3,7 +3,7 @@
         <carousel
             :items-to-show="1"
             :wrap-around="true"
-            class="p_top"
+            class="p_top p_bottom"
         >
             <slide v-for="slide in articleStore.getFeaturesSlides" :key="slide.id">
                 <div class="slider_bck" :style="{background:`url(${slide.img})`}">

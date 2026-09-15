@@ -21,6 +21,9 @@ a { color:inherit}
   padding-top: 130px;
 }
 
+.p_bottom{
+  padding-bottom: 10px;
+}
 
 .small_link {
   font-size: 12px;
