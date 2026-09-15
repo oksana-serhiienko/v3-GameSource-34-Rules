@@ -3,13 +3,13 @@ import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAES8ADv67iUPTFlVKkhQC8MQgbz__3dTI",
-    authDomain: "gamesource-ef983.firebaseapp.com",
-    projectId: "gamesource-ef983",
-    storageBucket: "gamesource-ef983.appspot.com",
-    messagingSenderId: "717043237688",
-    appId: "1:717043237688:web:0050743ed244c8f743b7cd",
-    measurementId: "G-ENNJJ3QW78"
+    apiKey: "AIzaSyAJTiPzX42cysdXXu85lWbY0X5jyjf7zK8",
+    authDomain: "gamesource-62d90.firebaseapp.com",
+    projectId: "gamesource-62d90",
+    storageBucket: "gamesource-62d90.firebasestorage.app",
+    messagingSenderId: "236401010939",
+    appId: "1:236401010939:web:1419f72629e8dd833a685e",
+    measurementId: "G-937QGCSL1L"
 };
 
 initializeApp(firebaseConfig)
